@@ -86,10 +86,10 @@ a {
 .btn-primary:hover {
   background: var(--primary-color-hover);
 }
-.btn-Secondary {
-  background: var(--Secondary-color);
+.btn-secondary {
+  background: var(--secondary-color);
 }
-.btn-Secondary:hover {
+.btn-secondary:hover {
   background: var(--secondary-color-hover);
 }
 
@@ -102,6 +102,11 @@ a {
 }
 .text-light {
   color: var(--light-color);
+}
+
+.bg-light {
+  background: var(--light-color);
+  color: #333;
 }
 
 .mb {
